@@ -1,3 +1,4 @@
-Queda pendent fer el qsort, el genSort i el divPrime,
+These are the lists from jutge.org of Haskell.
 
-De la llistesInfinites queda fer el mira i digues i Tartaglia
+
+FIB - UPC
